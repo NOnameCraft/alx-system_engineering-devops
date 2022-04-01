@@ -1,3 +1,2 @@
 #!/bin/bash
-var = chown hello
-if [ $var eq guillaume ]; then chown betty hello fi
+chmod --from=guillaume betty hello
