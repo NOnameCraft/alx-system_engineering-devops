@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((10#NARY))
+echo $((10#BINARY))
